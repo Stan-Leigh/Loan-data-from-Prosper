@@ -3,7 +3,7 @@
 ## Dataset
 
 This dataset consists of information regarding people that take loans. The dataset contains 113,937 rows of people that took loans for one reason or the other. It also contains variables like `LoanStatus`, `EmploymentStatus`, `OriginalLoanAmount`, and many more, that talk about the loan and the borrower in question. There were 81 variables total and 15 variables were used to do this exploration.
-The dataset can be gotten [here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1655039456192919&usg=AOvVaw1Pp9jCevGEcyuoAjDUN058).
+The dataset can be gotten [here](https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub).
 The data dictionary that explains the features can be gotten [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
 
 

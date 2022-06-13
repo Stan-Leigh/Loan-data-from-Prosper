@@ -1,6 +1,4 @@
 # Loan Data Exploration
-## by Nwani Ugonna Stanley
-
 
 ## Dataset
 
